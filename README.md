@@ -1,2 +1,5 @@
 # SkewedCardsAnimation
-Skewed Cards Animation on Hover
+Skewed Cards Animation on mouse hover
+
+https://makkiah.github.io/SkewedCardsAnimation/
+
