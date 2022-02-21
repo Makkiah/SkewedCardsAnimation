@@ -35,7 +35,7 @@ img{
     color: #555;
     font-weight: bold;
     text-transform: uppercase;
-    font-size: 2rem;
+    font-size: 1.75rem;
 }
 .card:hover{
     transform: rotate(0deg) scale(1) translateY(10px);
